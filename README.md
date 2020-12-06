@@ -21,19 +21,10 @@
 
 ## Information
 
-- Change [ownerNumber](https://github.com/TobyG74/ElainaBOT/blob/df5caa20c74a1e76345a9664baa8dbc1b198da21/tobz.js#L248) in tobz.js to be your number
+- Change [ownerNumber](https://github.com/bintoro68/whats/blob/df5caa20c74a1e76345a9664baa8dbc1b198da21/tobz.js#L248) in tobz.js to be your number
 ownerNumber = "6213xxxxxx@c.us"
-- Change [adminNumber](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/admin.json#L1) in admin.json to be your number
+- Change [adminNumber](https://github.com/bintoro68/whats/blob/main/lib/database/admin.json#L1) in admin.json to be your number
 [] -> ["62813xxxxxx@c.us"]
-
-## Contact
-
-If you find some bugs please contact the WhatsApp number on Contact
-
-- [TELEGRAM](https://t.me/tobz2k19)
-- [WHATSAPP](https://wa.me/6281311850715)
-- [MY BOT](wa.me/447418349954)
-- [WHATSAPP GROUP](https://chat.whatsapp.com/JuwROWyZh70Gn8rrmtReyu)
 
 ## APIKEY
 Open setting.js then edit & paste it in YOUR_APIKEY
@@ -41,9 +32,9 @@ Open setting.js then edit & paste it in YOUR_APIKEY
 - [MHANKBARBAR](https://mhankbarbar.herokuapp.com/api)
 
 Apikey Location
-- [SETTING](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/setting.json)
-- [FETCHER](https://github.com/TobyG74/ElainaBOT/blob/8ea2130f24132647feea3ff61dc09466fe91b19e/lib/fetcher.js#L6)
-- [FUNCTION](https://github.com/TobyG74/ElainaBOT/blob/a6252b0ee6ec754d25d71061d7989d86fc54a19e/lib/functions.js#L11)
+- [SETTING](https://github.com/bintoro68/whats/blob/main/lib/database/setting.json)
+- [FETCHER](https://github.com/bintoro68/whats/blob/8ea2130f24132647feea3ff61dc09466fe91b19e/lib/fetcher.js#L6)
+- [FUNCTION](https://github.com/bintoro68/whats/blob/a6252b0ee6ec754d25d71061d7989d86fc54a19e/lib/functions.js#L11)
 
 ## Donate
 - [Saweria](https://saweria.co/ItzTobz)
@@ -62,8 +53,8 @@ This is a Bot Group Type, so you have to enter the bot into a group in order to 
 Clone this project
 
 ```bash
-> git clone https://github.com/TobyG74/ElainaBOT
-> cd ElainaBOT
+> git clone https://github.com/bintoro68/whats
+> cd whats
 ```
 
 Install the dependencies:
@@ -100,7 +91,7 @@ after running it you need to scan the qr
 
 ### License
 
-- [Apache License 2.0](https://github.com/TobyG74/ElainaBOT/blob/main/LICENSE)
+- [Apache License 2.0](https://github.com/bintoro68/whats/blob/main/LICENSE)
 
 
 | Sticker Creator |                Feature           |
@@ -235,14 +226,3 @@ Fix Stuck on linux, install google chrome stable:
 > wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 > sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
-
-## 🙏Special Thanks To
-<ul>
-<li>https://github.com/MRHRTZ<br>
-<li>https://github.com/open-wa/wa-automate-nodejs<br>
-<li>https://github.com/YogaSakti/imageToSticker<br>
-<li>https://github.com/MhankBarBar/whatsapp-bot<br>
-<li>https://github.com/ItzNgga/wa-bot<br>
-<li>https://github.com/Gimenz<br>
-<li>https://github.com/ArugaZ/whatsapp-bot<br>
-</li>
