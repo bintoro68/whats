@@ -37,7 +37,7 @@ BACA README NYA, PERCUMA W BUAT README
 INGAT JANGAN JUAL SCRIPT DARK BOT KEPADA ORANG LAIN!
 INGIN PREMIUM? CHAT DARK BOT!
 
-ELAINA BOT V3
+DARK BOT BOT V3
 */
 
 const { 
@@ -147,7 +147,7 @@ module.exports = tobz = async (tobz, message) => {
         let { pushname, verifiedName } = sender
         pushname = pushname || verifiedName
         const commands = caption || body || ''
-        const prefix = '!'
+        const prefix = '#'
         const chats = (type === 'chat') ? body : (type === 'image' || type === 'video') ? caption : ''
         const command = commands.toLowerCase().split(' ')[0] || ''
         const args =  commands.split(' ')
